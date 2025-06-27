@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=web publisher/frontend&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=publisher/frontend&fontSize=90)
 
 안녕하세요! 😀 <br /> 
 매일 성장하는 퍼블리셔/프론트엔드 노영훈입니다.✨
