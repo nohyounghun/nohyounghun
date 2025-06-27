@@ -1,13 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nohyounghun!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=web publisher / frontend&fontSize=50)
 
 안녕하세요!
+매일 성장하는 퍼블리셔/프론트엔드 노영훈입니다.
 
 ✨ **Skills** <br /><br />
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="html5" /> <img
  src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="css3" /> <img
  src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="javascript" /> <img
  src="https://img.shields.io/badge/jquery-black?style=flat-square&logo=jqeury&logoColor=white" alt="jquery" /> <img
- src="https://img.shields.io/badge/react-skyblue?style=flat-square&logo=react&logoColor=white" alt="react" />
+ src="https://img.shields.io/badge/react-skyblue?style=flat-square&logo=react&logoColor=white" alt="react" /> <img
+ src="https://img.shields.io/badge/figma-pink?style=flat-square&logo=figma&logoColor=white" alt="figma" /> <img
+ src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white" alt="github" /> <img
+ src="https://img.shields.io/badge/chatgpt-black?style=flat-square&logo=chatgpt&logoColor=white" alt="chatgpt" />
 
 //제목------------
 # 제목1
