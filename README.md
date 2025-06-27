@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="html5" />
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="javascript" />
+<img src="https://img.shields.io/badge/jquery-black?style=flat-square&logo=jqeury&logoColor=white" alt="jquery" />
 
 //제목------------
 # 제목1
