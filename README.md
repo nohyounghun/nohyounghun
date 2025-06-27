@@ -50,3 +50,8 @@ Link3 : <nnnyh@naver.com>
 
 //이모티콘, 이모지 삽입------------(윈도우키 + 세미콜론)
 //이모지 한꺼번에 보고 찾기 - https://gist.github.com/rxaviers/7360908 :blush:
+
+//이미지 삽입------------ !기호 사용
+![엑박 시 보여질 이미지명](이미지 주소)(링크주소)
+![top_logo](https://harimpetfood.com/SkinImg/top_logo.gif)<br>
+<img src="https://harimpetfood.com/SkinImg/top_logo.gif">
