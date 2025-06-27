@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nohyounghun!&fontSize=50)
-<img src="https://img.shields.io/badge/HTML5-orange">
-<img src="https://img.shields.io/badge/CSS3-blue">
-<img src="https://img.shields.io/badge/Javascript-yellow">
+
+<img src="https://img.shields.io/badge/HTML5-orange" />
+<img src="https://img.shields.io/badge/CSS3-blue" />
+<img src="https://img.shields.io/badge/Javascript-yellow" />
+
 //제목------------
 # 제목1
 ## 제목2
