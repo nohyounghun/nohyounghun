@@ -3,6 +3,12 @@
 안녕하세요! 😀 <br /> 
 매일 성장하는 퍼블리셔/프론트엔드 노영훈입니다.✨
 
+**Profile**
+🎁 1993.08.30 <br />
+📞 010.3188.0830 <br />
+🖥 nnnyh@naver.com <br />
+
+
 ✨ **Skills** <br /><br />
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="html5" /> <img
  src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="css3" /> <img
