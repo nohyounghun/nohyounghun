@@ -11,7 +11,7 @@
  src="https://img.shields.io/badge/react-skyblue?style=flat-square&logo=react&logoColor=white" alt="react" /> <img
  src="https://img.shields.io/badge/figma-green?style=flat-square&logo=figma&logoColor=white" alt="figma" /> <img
  src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white" alt="github" /> <img
- src="https://img.shields.io/badge/chatgpt-black?style=flat-square&logo=gpt&logoColor=white" alt="chatgpt" />
+ src="https://img.shields.io/badge/chatgpt-black?style=flat-square&logo=chatgpt&logoColor=white" alt="chatgpt" />
 
 //제목------------
 # 제목1
