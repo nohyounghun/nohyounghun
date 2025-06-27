@@ -55,3 +55,19 @@ Link3 : <nnnyh@naver.com>
 ![엑박 시 보여질 이미지명](이미지 주소)(링크주소) <br>
 ![top_logo](https://harimpetfood.com/SkinImg/top_logo.gif)<br>
 <img src="https://harimpetfood.com/SkinImg/top_logo.gif">
+
+//테이블 삽입------------
+Title1|Title2
+-|-
+content1|content2
+content3|content4
+
+<table>
+  <thead>
+    <tr><th>셀제목</th><th>셀제목</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>셀내용</td><td>셀내용</td></tr>
+    <tr><td>셀내용</td><td>셀내용</td></tr>
+  </tbody>
+</table>
