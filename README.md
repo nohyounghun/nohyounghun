@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=web publisher / frontend&fontSize=50)
 
-안녕하세요!
-매일 성장하는 퍼블리셔/프론트엔드 노영훈입니다.
+안녕하세요! <br />
+매일 성장하는 퍼블리셔/프론트엔드 노영훈입니다.😀
 
 ✨ **Skills** <br /><br />
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="html5" /> <img
